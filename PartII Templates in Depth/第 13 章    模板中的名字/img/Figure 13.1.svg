@@ -1,0 +1,14 @@
+<svg width="462" height="228" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="3" rx="5" id="svg_1" height="196" width="410" y="16.20001" x="26" stroke="#939598" fill="#fff"/>
+  <rect stroke="#939598" stroke-width="3" rx="5" id="svg_2" height="142" width="376" y="60.20001" x="43" fill="#fff"/>
+  <rect stroke="#939598" stroke-width="3" rx="5" id="svg_3" height="89" width="338" y="103.20002" x="61" fill="#fff"/>
+  <rect stroke="#939598" stroke-width="3" rx="5" id="svg_4" height="39" width="279.00001" y="143.20001" x="91.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_5" y="46.20001" x="171.00159" stroke-width="0" stroke="#939598" fill="#000000">所有表达式</text>
+  <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_6" y="90.20001" x="171.00159" stroke-width="0" stroke="#939598" fill="#000000">实例化待决</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_7" y="131.20001" x="195.00159" stroke-width="0" stroke="#939598" fill="#000000">值待决</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="171.20001" x="183.00159" stroke-width="0" stroke="#939598" fill="#000000">类型待决</text>
+ </g>
+</svg>
